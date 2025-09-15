@@ -10,3 +10,6 @@ https://www.alberta.ca/system/files/im-aaip-fee-schedule-effective-2025-04-01.pd
 # Document Check List 
 https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-alberta-opportunity-stream-checklist.pdf
 
+# application steps
+https://www.alberta.ca/how-to-apply-to-aaip-worker-streams
+
